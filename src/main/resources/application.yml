@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: camel-spring--boot-demo
+
+camel:
+  springboot:
+    main-run-controller: true # 保证 Camel 路由运行后不会自动退出
+
+  component:
+    direct:
+      enabled: true # 启用 direct 路由组件
+    paho-mqtt5:       # MQTT5 配置
+      brokerUrl: tcp://127.0.0.1:1883
+      qos: 0          # MQTT 消息质量等级（最多一次）
+      user-name:
+      password:
