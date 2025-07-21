@@ -9,7 +9,7 @@
 ## 项目结构说明
 
 ```
-camel-spring--boot-demo/
+camel-spring-boot-demo/
 ├── src/
 │   ├── main/
 │   │   ├── java/com/ioufev/
