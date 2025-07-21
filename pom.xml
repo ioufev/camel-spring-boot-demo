@@ -12,7 +12,7 @@
     <artifactId>camel-spring--boot-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>camel-spring--boot-demo</name>
-    <description>camel-spring--boot-demo</description>
+    <description>camel-spring-boot-demo</description>
 
     <properties>
         <java.version>8</java.version>
