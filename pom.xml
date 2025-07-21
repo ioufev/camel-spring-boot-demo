@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ioufev</groupId>
-    <artifactId>camel-spring--boot-demo</artifactId>
+    <artifactId>camel-spring-boot-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>camel-spring--boot-demo</name>
+    <name>camel-spring-boot-demo</name>
     <description>camel-spring-boot-demo</description>
 
     <properties>
